@@ -13,8 +13,8 @@
 
 ![Huawei SmartAX MA5800 OLT](assets/olt-huawei-ma5800.jpg)
 
-### 2. การเชื่อมต่อสายใยแก้วนำแสง (Fusion Splicer)
-ปอกสาย เช็ดทำความสะอาด ตัดปลายแก้วด้วย Fiber Cleaver แล้วนำเข้าเครื่อง Fusion Splicer เพื่อหลอมเชื่อมสายใยแก้วนำแสง
+### 2. สไปรท์สายใยแก้วนำแสง (Fusion Splicer)
+ปอกสาย เช็ดทำความสะอาด ตัดปลายสาย แล้วนำเข้าเครื่องสไปรท์เพื่อเชื่อมสายไฟเบอร์เข้าด้วยกัน
 
 ![Optical Fiber Fusion Splicing](assets/fusion-splicing-setup.png)
 
